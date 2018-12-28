@@ -3,7 +3,7 @@
 
 用于微信小程序开发的[Fort-Awesome](https://fontawesome.com)图标库，将Fort-Awesome图标的字体文件转换成base64编码储存在wxss文件中，开发者可以按照调用css文件的思路直接导入font-awesome，仅支持Fort-Awesome免费图标(Brands,Solid,Regular)  
 
-**注意：仅接受纠错类型的issue&merge**  
+**注意：仅接受纠错类型的merge**  
 
 ## 使用方法  
 在[release页面](https://github.com/McContax/font-awesome-wxss/releases)下载最新版的压缩包，解压之后的文件结构如下
